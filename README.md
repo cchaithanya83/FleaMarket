@@ -1,16 +1,15 @@
 # project
 
-A new Flutter project.
+FleaMarket, A campus market place.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+FLEAMARKET is a college-centric mobile app fostering the buying and selling of used items. Users easily list products with photos and details, while a streamlined interface enables
+seamless browsing. With Firebase for secure authentication and data storage, FLEAMARKET features real-time in-app chat for negotiations, a wishlist for tracking interests, and a
+transaction model that empowers users to finalize deals offline. Prioritizing user privacy, the platform acts as a middleman, connecting buyers and sellers. FLEAMARKET streamlines the
+college trading experience, promoting sustainability and community engagement through a user-friendly, secure, and efficient marketplace.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FLEAMARKET's goals are to streamline college students' buying and selling experiences by offering an intuitive platform. Prioritizing
+sustainability, the app promotes the reuse of items within the college community. It aims to enhance user satisfaction through a user-friendly
+interface, real-time chat, and a wishlist feature. Security measures ensure the privacy of users, and acting as a trusted middleman, FLEAMARKET
+connects buyers and sellers, fostering a dynamic marketplace community focused on sustainable consumption and efficient transactions.
