@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "682099681529",
+    "project_id": "fleamarket-ecf89",
+    "storage_bucket": "fleamarket-ecf89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682099681529:android:e4cdf74da849beba331a28",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682099681529-7p28ph1mj33qsjf0nambenkv34pmk948.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "cdaf6fc23bd1f43974cc8502818dcc881336f218"
+          }
+        },
+        {
+          "client_id": "682099681529-5nbfjusl40l8u09gla7h650sgk19uq23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWvgwMeDuO7txXgGDEt0dHKm2SV-nk-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682099681529-5nbfjusl40l8u09gla7h650sgk19uq23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682099681529-5hho4vflsi1ag28imcedc0fq3gf9uurq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
